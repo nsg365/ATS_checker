@@ -7,6 +7,7 @@ It combines LLM-based resume parsing, semantic skill validation, and keyword mat
 ---
 
 ## Overview
+![Landing Page](image-1.png)
 ![Scoring Page](image.png)
 
 ResumeLens is a two-tier application:
